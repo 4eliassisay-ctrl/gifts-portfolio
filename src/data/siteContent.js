@@ -18,9 +18,9 @@ export const services = [
       'A living celebration page with animations, music cues, and moments that feel made for one person only.',
   },
   {
-    title: 'Love & Relationship Pages',
+    title: 'A Universe Made Just for You',
     description:
-      'Romantic micro-sites that tell your story with tenderness—letters, timelines, and interactive surprises.',
+      'A personalized digital world—constellations of memories, orbital UI, and a surprise finale for the guest of honor.',
   },
   {
     title: 'Emotional Video Gifts',
@@ -101,7 +101,7 @@ export const whyChoose = [
   'Fast turnaround without sacrificing craft',
   'Emotional storytelling meets modern technology',
 ]
-
+/*
 export const testimonials = [
   {
     quote:
@@ -122,3 +122,4 @@ export const testimonials = [
     role: 'Love page',
   },
 ]
+*/
